@@ -1,5 +1,16 @@
 Once upon a time many authors collaborated to make meaningless linked story.
 
+And that story was about [cricket](cricket/if-you-love-cricket/ifyoulovecricket.md)
+
+A few learned to [tango](tango/tango.md)
+
+Some preferred to
+Enter [The Forest!] (forest/forest.md)
+
+If you are a fan of ZooZoo go [here](zoozoo/zoozoo.md)
+
+hi~
+
 NGE is [here] (NGE/NGE.md)
 
 [start](mad/mad.md) your journey into world of mad 
@@ -23,11 +34,17 @@ Which way should you go? Only you can decide.
 
 Oh so many decisions - what will you do??
 
+In the end you will realize that it [doesn't really matter]
+(https://goo.gl/1fd4wU).
+The path you choose is as good as any.
+
 You decide to drop everything you're doing and [run out the door](run_out_the_door/run_out_the_door.md)!
 
 [Build time machine](time-machine/time-machine.md)
 
 Take some [time](meditation/meditation.md) off!
+
+[Roll a D20](dungeons-and-dragons/dungeons-and-dragons.md) and see what luck brings.
 
 Life is full of twists and turns like but try to cheer yourself and people around you. [Click Here](Happy/happie.md)
 
@@ -1168,3 +1185,59 @@ I am also a soccer fan, I am a Man U fan from EPL. To see Man U click [here](Man
 Wow, you made it to the end!  You are determined, [see](persistent/persistent.md) what awaits.
 
 Wait! This is not the end! OMG [click me](never_ended/never_ended.md) 
+
+have you already heard the story of the Choking Doberman? [click me](dog_finger/dog_finger.md)
+
+Join me in [Tree of Savior!](tos/tos.md)
+
+Let's do the [Front-end Web Developer Nanodegree](front_end/front_end.md) together!
+
+How about we all [learn android](https://www.udacity.com/course/android-developer-nanodegree-by-google--nd801) !
+
+Let's finish a small goal, [for example](set_up_a_small_goal/setup_a_small_goal.md)
+
+You decide to teach google to be a [Pictionary](https://quickdraw.withgoogle.com/) champion.
+
+Jason Calacanis is one of the best interviewers I've seen. 
+[Here](https://www.youtube.com/channel/UCkkhmBWfS7pILYIk0izkc3A) they are
+
+My best girls are Toujou Nozomi, Aragaki Ayase, and Sendouin Kaede.
+
+Maybe this is a [dream](dream/dream.md)?
+
+Or maybe you love [pugs] (https://www.youtube.com/watch?v=3pPR7vk-e3Y)?
+
+Or maybe you're trying to avoid the cold [outside](cold_outside/cold_outside.md)
+
+<<<<<<< HEAD
+Have you ever heard any unusual sounds 
+when you're alone? 
+They're not what you think. 
+Get to know them [here](blackAndwhite/blackAndwhite.md)
+
+=======
+Like football or soccer(as many others call it)? Must Watch 
+[The_Greatest_Battle_Ever] (https://www.youtube.com/watch?v=KyHDZqp2ThU)
+
+Some other guy beat me to it.  Too lazy [here](lazy/lazy.md)
+
+What if I told that all this is just a bunch of [files](see-files/files.md)
+>>>>>>> upstream/master
+
+A Story of Being Alone
+Read it [here](alone/alone.md)
+
+Information on some famous tv series
+[click here](famous-tv-series/famous-tv-series.md)
+
+I have atlast found a way to heaven...Want to go [there](00_PortBlair's Emerald blue/PortBlairVoyage.md)
+
+Why are you reading this line? smile and move on.
+
+Smile and move on gingerly.
+
+What is your [passion?](passion/passion.md)
+
+-
+
+searching for [good](tvf-play/watch.md) content.

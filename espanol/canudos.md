@@ -2,6 +2,8 @@ En el pueblo de Canudos, el Consejero y Beatito estaban conversando acerca del i
 república cuando empezaron a sonar trompetas que indicaban la llegada del ejercito. En ese momento
 el Consejero:
 
+Se quedo en [blanco](blanco/blanco.md)
+
 Hizo llamar a [Zipi y Zape](zipizape/zipizape.md) para recibir al ejército.
 (Zipi es el rubio)
 
@@ -184,3 +186,11 @@ Y [Resines](resines/resines.md) despertó de lo quer parecía un mal sueño.
 Al despertar Resines te pregunta si eres [Batman](batman/Batman.md)
 
 A lo que respondes: "Yo solo vine aquí a hablar de mi [libro](libro/libro.md)".
+
+Luego de su viaje extraordinario se acordó de su [máquina del tiempo](maquina/tiempo/maquina_del_tiempo.md).
+
+[En su viaje al pasado pudo conoció a Aquiles, quien le enseñó como invocar a Pegaso](pegaso/pegaso.md)
+
+[El ejército invasor avanza](ejercito-invasor/ejercito-invasor.md)
+
+[Y de repente, sintió la necesidad de que la historia llegase a su fin](fin/fin.md)
